@@ -4,8 +4,8 @@ This code book summarizes the resulting data fields in tidydata.txt.
 
 Identifiers:
 
-Subject - The ID of the test subject
-Activity - The type of activity performed when the corresponding measurements were taken
+1. Subject - The ID of the test subject
+2. Activity - The type of activity performed when the corresponding measurements were taken
 
 Measurements:
 
