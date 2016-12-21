@@ -1,7 +1,10 @@
 Getting and Cleaning Data Project
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 The dataset being used is "Human Activity Recognition Using Smartphones Dataset".
+
 The R script, run_analysis.R, does the following:
+
 1. Download the file from the URL given and put the file in the given folder
 2. Unzip the downloaded zip file
 3. The list of files are in UCI HAR Dataset folder. To unzip the files that are in the folder
